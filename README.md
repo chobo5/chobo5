@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=안녕하세요%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=purple&height=200&section=header&text=안녕하세요%20render&fontSize=90)
 ### Hi there 👋
 
 <!--
