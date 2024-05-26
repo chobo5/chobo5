@@ -3,8 +3,8 @@
    
 <br>
 
-<h3 align="center">📚 Tech Stack 📚</h3>
-<p align="center">
+<h3>📚 Tech Stack 📚</h3>
+<p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Swift-F05138.svg?style=flat-square&logo=swift&logoColor=white"/></a>&nbsp
@@ -26,12 +26,11 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>&nbsp 
 </p>
 
-<h3 align="center">💡 Porjects💡</h3>
 
+### 💡**Projects**💡
 |  Date  | Project  |  Language   |  Result   |
 |:---:|:---:|:---:|:---:|
 | `2022.10.` ~ `2022.12.`  |  iOS 스터디 Mega-Coffee 클론 코딩 | Swift | 팀 프로젝트 |
 | `2023.04.` ~ `2023.06.`  |  Room28 - 좋아하는 의류브랜드를 모아 보세요 | Swift | AppStore 출시 |
 | `2023.08.` ~ `2023.09.`  |  경우의 술(Random Soju) - 어떤 술집을 갈지 고민될때 | Swift | AppStore 출시 |
 | `2024.04.` ~ `2024.05.`  |  Salaba - 여행속 특별한 일상 | Java | 팀 프로젝트 |
-
